@@ -1,0 +1,3 @@
+This is actually a group project over which I worked and in this project I have made two webpages for Li-Mat Soft Solution Pvt. Ltd. in which first was of Digital Marketing webpage and another was of SEO page for the same website, here in this repository for Digital Marketing Webpage for the website.
+
+The technologies used in this webpage are HTML5, CSS3, Bootstrap, JavaScript and CodeIgniter.
